@@ -36,6 +36,9 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Set PAGES_REPO_NWO environment variable
+        run: |
+          echo "PAGES_REPO_NWO=${{ github.repository }}" >> $GITHUB_ENV
       - name: Build with Jekyll
         run: |
           bundle exec jekyll build --baseurl "/bthan-portfolio"
