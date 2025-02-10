@@ -48,13 +48,6 @@ His core focuses are full-stack and data engineering.
 
 * Student QA Tester (January 2020 - March 2020)
 
-* * *
-
-## Education
-
-### University of Toronto 
-
-* Honours Bachelor of Information (High Distinction)
 
 * * *
 
@@ -62,6 +55,27 @@ His core focuses are full-stack and data engineering.
 * Microsoft Fabric Analytics Engineer (2024)
 * Microsoft Azure Data Scientist Associate (2023) 
 * Microsoft Azure Data Engineer Associate (2023) 
+
+* * *
+
+## Technical Skills 
+
+| Category    | Technology |
+| -------- | ------- |
+| Programming & Scripting | Python (Django, flask), Java, .js (React), C# (.NET Maui, Xamarin), PL/SQL, PL/pgSQL, bash/shell (Solaris, Oracle Linux, Redhat Linux), Windows Powershell, DevOps YAML, Docker YAML |
+| Databases | Oracle 11g/12c/19c, Azure SQL Server, Azure CosmosDB, PostgreSQL, KQL, MS Dataverse, MS Access |
+
+| Data Engineering | Azure Data Factory, Informatica PowerCenter 10.2 and IDMC, Mulesoft, Apache Airflow   |
+| Data Science   | MS Fabric, Azure AI Search, pySpark, OpenAI, Databricks   |
+| Data Visualization | PowerBI, Oracle APEX, Tableau, matplotlib, leaflet
+
+* * *
+
+## Education
+
+### University of Toronto 
+
+* Honours Bachelor of Information (High Distinction)
 
 * * *
 
@@ -74,3 +88,4 @@ His core focuses are full-stack and data engineering.
 * Western University Founders Network Hackathon Finalist (2022) 
 * COoKIE Human-Computer Interaction Research Group Alumni (2022) 
 * Natural Sciences and Research Council of Canada Undergraduate Award (2021) 
+
