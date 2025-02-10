@@ -30,15 +30,15 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # You can also use a .ruby-version file to define Ruby version
-          bundler-cache: true # Runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+          ruby-version: '3.1' 
+          bundler-cache: true
+          cache-version: 0 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
         run: |
-          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+          bundle exec jekyll build --baseurl "/bthan-portfolio"
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
