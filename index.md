@@ -17,7 +17,7 @@ His core focuses are full-stack and data engineering.
 >          <li><a href="{{ site.github.finances }}">API <strong>Docs</strong></a></li>
 >          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
 > </ul>
-> ![jupyter-finances]({{ site.finances }})
+> ![jupyter-finances](/bthan-portfolio/{{ site.finances }})
 
 
 ### [oracle-dbops]({{ site.github.oracle }})
@@ -26,7 +26,7 @@ His core focuses are full-stack and data engineering.
 > <ul class="downloads">
 >          <li><a href="{{ site.github.oracle }}">View On <strong>GitHub</strong></a></li>
 > </ul>
-> ![jupyter-finances]({{ site.oracle }})
+> ![jupyter-finances](/bthan-portfolio/{{ site.oracle }})
 
 * * *
 
