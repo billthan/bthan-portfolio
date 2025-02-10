@@ -1,0 +1,19 @@
+title: Bill Than
+logo: /assets/img/logo.png
+finances: /assets/img/finances.png
+oracle: /assets/img/oracle.png
+ontario: /assets/img/ontario.png
+
+description: Sr. Data Developer @ Ontario Ministry of Natural Resources
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+github1:
+  repository_url: https://github.com/billthan/bthan-portfolio
+  repository_nwo: billthan/bthan-portfolio
+
+github:
+  oracle: https://github.com/billthan/oracle-dbops
+  finances: https://billthan.github.io/jupyter-finance/
+  repository_url: https://github.com/billthan/jupyter-finance
