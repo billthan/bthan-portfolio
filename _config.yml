@@ -9,6 +9,10 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
+socials:
+  linkedin: https://linkedin.com/in/billthan/
+  github: https://github.com/billthan/
+
 github1:
   repository_url: https://github.com/billthan/bthan-portfolio
   repository_nwo: billthan/bthan-portfolio
