@@ -2,7 +2,8 @@
 
 Original theme credits to: [Steve Smith](https://github.com/orderedlist)
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+[![CI](https://github.com/billthan/bthan-portfolio/actions/workflows/ci.yaml/badge.svg)](https://github.com/billthan/bthan-portfolio/actions/workflows/ci.yaml)
+[![Deploy](https://github.com/billthan/bthan-portfolio/actions/workflows/publish-gem.yml/badge.svg)](https://github.com/billthan/bthan-portfolio/actions/workflows/publish-gem.yml)
 
 
 ![Image](thumbnail.png)
