@@ -88,3 +88,11 @@ His core focuses are full-stack and data engineering.
 * COoKIE Human-Computer Interaction Research Group Alumni (2022) 
 * Natural Sciences and Research Council of Canada Undergraduate Award (2021) 
 
+## Bonus
+
+Want to see more of my work? Invite me for an interview and let's see if my skills might seem like a match for your team!
+
+Email: bill [dot] than00 [at] gmail [dot] com
+
+![locked]({{ site.locked | relative_url }})
+
