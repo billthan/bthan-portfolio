@@ -32,9 +32,13 @@ His core focuses are full-stack and data engineering.
 
 ## Work Experience
 
-### Ontario Government - Ministry of Natural Resources
+### Bank of Canada - Data and Analytics Solutions 
 
-* **Sr. Data Developer (April 2024 - present)**
+* **Sr. Data and Analytics Specialist (April 2025 - present)**
+
+### Ontario Land and Resources - Data and Advanced Analytics 
+
+* Sr. Data Developer (April 2024 - April 2025)
 * Data Developer (May 2023 - April 2024)
 * Intern (August 2022 - May 2023)
 
@@ -87,12 +91,4 @@ His core focuses are full-stack and data engineering.
 * Western University Founders Network Hackathon Finalist (2022) 
 * COoKIE Human-Computer Interaction Research Group Alumni (2022) 
 * Natural Sciences and Research Council of Canada Undergraduate Award (2021) 
-
-## Bonus
-
-Want to see more of my work? Invite me for an interview and let's see if my skills might seem like a match for your team!
-
-Email: bill [dot] than00 [at] gmail [dot] com
-
-![locked]({{ site.locked | relative_url }})
 
