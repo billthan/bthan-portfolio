@@ -7,6 +7,8 @@ Bill is an accomplished team leader with experience building end-to-end on-prem/
 
 His core focuses are full-stack and data engineering.
 
+4x Microsoft Certified
+
 * * *
 ## Projects
 
@@ -56,6 +58,7 @@ His core focuses are full-stack and data engineering.
 * * *
 
 ## Certifications 
+* Microsoft Azure Administrator Associate (2025)
 * Microsoft Fabric Analytics Engineer (2024)
 * Microsoft Azure Data Scientist Associate (2023) 
 * Microsoft Azure Data Engineer Associate (2023) 
@@ -69,8 +72,10 @@ His core focuses are full-stack and data engineering.
 | Programming & Scripting | Python (Django, flask), Java, .js (React), C# (.NET Maui, Xamarin), PL/SQL, PL/pgSQL, bash/shell (Solaris, Oracle Linux, Redhat Linux), Windows Powershell, DevOps YAML, Docker YAML |
 | Databases | Oracle 11g/12c/19c, Azure SQL Server, Azure CosmosDB, PostgreSQL, KQL, MS Dataverse, MS Access |
 | Data Engineering | Azure Data Factory, Informatica PowerCenter 10.2 and IDMC, Mulesoft, Apache Airflow   |
-| Data Science   | MS Fabric, Azure AI Search, pySpark, OpenAI, Databricks   |
-| Data Visualization | PowerBI, Oracle APEX, Tableau, matplotlib, leaflet
+| Data Science   | MS Fabric, Azure AI Search, pySpark, OpenAI, Databricks, MATLAB |
+| Data Visualization | PowerBI, Oracle APEX, Tableau, matplotlib, leaflet |
+| Artificial Intelligence | Ollama, Azure OpenAI, AI Foundry |
+| Data Governance | Unity Catalog (Databricks), Purview |
 
 * * *
 
