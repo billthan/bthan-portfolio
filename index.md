@@ -7,6 +7,8 @@ Bill is an accomplished team leader with experience building end-to-end on-prem/
 
 His core focuses are full-stack and data engineering.
 
+4x Microsoft Certified
+
 * * *
 ## Projects
 
@@ -56,6 +58,7 @@ His core focuses are full-stack and data engineering.
 * * *
 
 ## Certifications 
+* Microsoft Azure Administrator Associate (2025)
 * Microsoft Fabric Analytics Engineer (2024)
 * Microsoft Azure Data Scientist Associate (2023) 
 * Microsoft Azure Data Engineer Associate (2023) 
