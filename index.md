@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-Bill is an accomplished team leader with experience building end-to-end on-prem/cloud data solutions.
+Bill is an accomplished team leader with experience building  cloud-based platforms that turn complex data into clear inputs for decision-making.
 
-His core focuses are full-stack and data engineering.
+He is focused on scalable data engineering, risk-aware design, and analytics that support real-world outcomes.
 
-4x Microsoft Certified
+5x Microsoft Certified
 
 * * *
 ## Projects
