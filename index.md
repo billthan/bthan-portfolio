@@ -58,10 +58,11 @@ His core focuses are full-stack and data engineering.
 * * *
 
 ## Certifications 
-* Microsoft Azure Administrator Associate (2025)
-* Microsoft Fabric Analytics Engineer (2024)
-* Microsoft Azure Data Scientist Associate (2023) 
-* Microsoft Azure Data Engineer Associate (2023) 
+* Azure Solutions Architect Expert (2026)
+* Azure Administrator Associate (2025)
+* Fabric Analytics Engineer (2024)
+* Azure Data Scientist Associate (2023) 
+* Azure Data Engineer Associate (2023) 
 
 * * *
 
