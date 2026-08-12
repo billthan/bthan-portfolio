@@ -1,11 +1,14 @@
 title: Bill Than
+url: https://billthan.github.io
+baseurl: /bthan-portfolio
+repository: billthan/bthan-portfolio
 logo: /assets/img/logo.png
 finances: /assets/img/finances.png
 oracle: /assets/img/oracle.png
 ontario: /assets/img/ontario.png
 locked: /assets/img/locked.png
 
-description: Sr. Data and Analytics Specialist @ Bank of Canada
+description: Cloud Solution Architect at Microsoft
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
