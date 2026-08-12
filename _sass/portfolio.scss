@@ -774,36 +774,23 @@ h3 {
 .system-map__arrow { fill: var(--ink-soft); }
 
 .system-map__packet {
-  opacity: 0;
+  opacity: 1;
   stroke: var(--ink);
   stroke-width: 2.5;
   vector-effect: non-scaling-stroke;
-  transition: opacity 220ms ease 500ms;
 }
 
-.data-world.is-active .system-map__packet { opacity: 1; }
 .system-map__packet--blue { fill: #8ed4ee; }
 .system-map__packet--green { fill: #7bc7aa; }
 .system-map__packet--gold { fill: #ffdb64; }
 .system-map__packet--coral { fill: #f28a69; }
 
 .system-map__node {
-  opacity: 0;
-  transform: translateY(12px);
-  transform-box: fill-box;
-  transform-origin: center;
-  transition: opacity 480ms ease, transform 480ms ease;
-}
-
-.data-world.is-active .system-map__node {
   opacity: 1;
   transform: translateY(0);
+  transform-box: fill-box;
+  transform-origin: center;
 }
-
-.system-map__node--onprem { transition-delay: 40ms; }
-.system-map__node--cloud { transition-delay: 160ms; }
-.system-map__node--lake { transition-delay: 280ms; }
-.system-map__node--people { transition-delay: 400ms; }
 
 .system-map__shadow { fill: rgba(23, 39, 36, 0.12); }
 
